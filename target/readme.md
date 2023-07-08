@@ -98,5 +98,5 @@ print(boxes)
 ```
 Target Segmentation :
 
-![image](https://github.com/sud0x00/SharadaProject-Segmentation/assets/91898207/725d6a0f-0e43-4965-b6ff-b440cd5c96dc)
+![image](https://github.com/sud0x00/SharadaProject-Segmentation/assets/91898207/304ea32c-ccd6-4893-8797-ee4171ab52dc)
 
