@@ -96,4 +96,7 @@ for b in boxes.splitlines():
 cv2_imshow(img)
 print(boxes)
 ```
+Target Segmentation :
+
+![image](https://github.com/sud0x00/SharadaProject-Segmentation/assets/91898207/725d6a0f-0e43-4965-b6ff-b440cd5c96dc)
 
